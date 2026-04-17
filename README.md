@@ -2,6 +2,10 @@
 
 > 推理小说诡计设计工具 | 兼容 Claude Code, OpenClaw, Codex, Gemini CLI
 
+[![Skill](https://img.shields.io/badge/Type-Skill-blue)](https://github.com/topics/skill)
+[![Platform](https://img.shields.io/badge/Platform-Claude%20Code%20%7C%20OpenClaw%20%7C%20Codex-green)]()
+[![License](https://img.shields.io/badge/License-MIT-yellow)]()
+
 ## 简介
 
 Trick Designer 是一个专门用于设计推理小说诡计的工具。它帮助创作者从"不可能"的谜面出发，通过反直觉的心理学盲区或物理科学原理设计作弊点，并形成逻辑闭环。
